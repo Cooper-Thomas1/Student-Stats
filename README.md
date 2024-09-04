@@ -1,1 +1,2 @@
-A repository for my projects made using Java.
+# Java-Projects
+A Repository For My Java Projects.
