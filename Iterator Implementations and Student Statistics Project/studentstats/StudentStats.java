@@ -1,4 +1,3 @@
-// Student Number: 23723986
 
 package studentstats;
 
