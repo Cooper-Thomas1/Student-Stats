@@ -1,2 +1,2 @@
-# Java-Projects
-A Repository For My Java Projects.
+# Student-Stats
+### Iterator Implementations and Student Statistics Project in Java
